@@ -38,3 +38,6 @@ Example:
 ## Contributing
 
 Contributions are welcome. Please open an issue to discuss your ideas or submit a pull request with your changes.
+
+## References
+This was based on this [demo tutorial](https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html#step-3-ingest-the-raw-data) from Databricks
